@@ -59,9 +59,9 @@ The main data models used are:
 | [Kotlin](https://developer.android.com/kotlin) | 1.4.32 | Primary development language |
 | [Android SDK Platform](https://developer.android.com/studio/releases/platforms) | 28(Android Pie) | Provides set of development and debugging tools for Android |
 | [Android Build Tool](https://developer.android.com/studio/releases/build-tools.html)| 28.0.3  | Provides access to various android framework for building apps |
-| [Retrofit](http://square.github.io/retrofit/) with [OkHttp3](http://square.github.io/okhttp/) | 2.2.0 | For API calls |
-| [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.2  | For Reactive(`Observable` & `Observer`) Programming |
-| [RxKotlin](https://github.com/ReactiveX/RxKotlin) | 2.1.0  | For Reactive(`Observable` & `Observer`) Programming in Kotlin |
+| [Retrofit](http://square.github.io/retrofit/) with [OkHttp3](http://square.github.io/okhttp/) | 2.9.0 | For API calls |
+| [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17  | For Reactive(`Observable` & `Observer`) Programming |
+| [RxKotlin](https://github.com/ReactiveX/RxKotlin) | 2.1.1  | For Reactive(`Observable` & `Observer`) Programming in Kotlin |
 | [Dagger2](https://github.com/google/dagger) | 2.35.1  | For Dependency injection  |
 | [Lifecycle-aware components](https://developer.android.com/topic/libraries/architecture/adding-components#lifecycle/) | 2.0.0-beta01  | For Lifecycle-aware components  |
 | [Lifecycle-aware components](https://developer.android.com/topic/libraries/architecture/adding-components#lifecycle/) | 2.0.0-beta01  | For Lifecycle-aware components  |

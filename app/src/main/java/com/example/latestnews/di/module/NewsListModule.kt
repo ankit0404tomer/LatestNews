@@ -3,7 +3,7 @@ package com.example.latestnews.di.module
 import com.example.latestnews.network.NewsApiFetcher
 import com.example.latestnews.network.NewsBackend
 import com.example.latestnews.network.rx.AndroidSchedulingStrategyFactory
-import com.example.latestnews.network.rx.viewstates.NewsListViewStateConverter
+import com.example.latestnews.network.viewstates.NewsListViewStateConverter
 import com.example.latestnews.repository.NewsRepository
 import com.example.latestnews.utils.AppUtils.BASE_URL
 import dagger.Module

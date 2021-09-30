@@ -5,8 +5,8 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.example.latestnews.network.rx.ResponseState
-import com.example.latestnews.network.rx.viewstates.NewsDataVS
-import com.example.latestnews.network.rx.viewstates.NewsListViewState
+import com.example.latestnews.network.viewstates.NewsDataVS
+import com.example.latestnews.network.viewstates.NewsListViewState
 import com.example.latestnews.repository.NewsRepository
 import com.example.latestnews.utils.AppUtils
 import com.example.latestnews.utils.AppUtils.NEWS_LIST_URL

@@ -1,4 +1,4 @@
-package com.example.latestnews.network.rx.viewstates
+package com.example.latestnews.network.viewstates
 
 import com.example.latestnews.model.NewsList
 import com.example.latestnews.network.rx.ResponseState

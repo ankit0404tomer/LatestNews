@@ -5,8 +5,8 @@ import com.example.latestnews.model.Likes
 import com.example.latestnews.network.NewsApiFetcher
 import com.example.latestnews.network.rx.ResponseState
 import com.example.latestnews.network.rx.SchedulingStrategyFactory
-import com.example.latestnews.network.rx.viewstates.NewsListViewState
-import com.example.latestnews.network.rx.viewstates.NewsListViewStateConverter
+import com.example.latestnews.network.viewstates.NewsListViewState
+import com.example.latestnews.network.viewstates.NewsListViewStateConverter
 import io.reactivex.Observable
 
 class NewsRepository constructor(

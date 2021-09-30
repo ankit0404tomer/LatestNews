@@ -1,4 +1,4 @@
-package com.example.latestnews.network.rx.viewstates
+package com.example.latestnews.network.viewstates
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize

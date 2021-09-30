@@ -10,7 +10,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.latestnews.R
-import com.example.latestnews.network.rx.viewstates.NewsDataVS
+import com.example.latestnews.network.viewstates.NewsDataVS
 import com.example.latestnews.utils.AppUtils.ANONYMOUS
 import com.example.latestnews.utils.AppUtils.NO_DESCRIPTION
 import kotlinx.android.synthetic.main.news_item_cell.view.*

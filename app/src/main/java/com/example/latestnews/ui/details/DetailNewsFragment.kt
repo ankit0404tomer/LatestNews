@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.lifecycle.ViewModelProvider
 import com.bumptech.glide.Glide
 import com.example.latestnews.R
-import com.example.latestnews.network.rx.viewstates.NewsDataVS
+import com.example.latestnews.network.viewstates.NewsDataVS
 import com.example.latestnews.utils.AppUtils
 import com.example.latestnews.utils.AppUtils.ANONYMOUS
 import dagger.android.support.DaggerFragment
