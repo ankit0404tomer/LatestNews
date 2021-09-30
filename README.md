@@ -63,6 +63,6 @@ The main data models used are:
 | [RxJava](https://github.com/ReactiveX/RxJava) | 2.2.17  | For Reactive(`Observable` & `Observer`) Programming |
 | [RxKotlin](https://github.com/ReactiveX/RxKotlin) | 2.1.1  | For Reactive(`Observable` & `Observer`) Programming in Kotlin |
 | [Dagger2](https://github.com/google/dagger) | 2.35.1  | For Dependency injection  |
-| [Lifecycle-aware components](https://developer.android.com/topic/libraries/architecture/adding-components#lifecycle/) | 2.0.0-beta01  | For Lifecycle-aware components  |
-| [Lifecycle-aware components](https://developer.android.com/topic/libraries/architecture/adding-components#lifecycle/) | 2.0.0-beta01  | For Lifecycle-aware components  |
+| [Lifecycle-aware components](https://developer.android.com/topic/libraries/architecture/adding-components#lifecycle/) | 2.3.1  | For Lifecycle-aware components  |
+| [Gson](https://github.com/google/gson) | 2.8.6 | For JSON conversion |
 
