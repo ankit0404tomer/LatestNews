@@ -1,0 +1,2 @@
+# LatestNews
+Fetch Latest News
